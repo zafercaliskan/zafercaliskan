@@ -1,6 +1,6 @@
 Hi, i am a self-disciplined, passionate software engineer in Antalya/Turkey. I develop web-based applications with C# programming language. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending message.
 
-Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
+<!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
 
 Responsible for;
 - Fullstack development using .Net Framework and AngularJS,
@@ -10,7 +10,7 @@ Responsible for;
 - Some DevOps tasks configuration on Azure Pipelines,
 - Integration and maintenance in Stripe and iyzico
 
-Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc.
+Some Azure products and services have been used such as Azure AppServices, Azure Dbs, Azure WebJobs for background tasks, CosmosDB for NoSql, Azure Storage, Elasticsearch, Redis and CDN Profiles etc. -->
 
 #
 [![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/zafercaliskan?tab=followers)
