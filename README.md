@@ -1,4 +1,4 @@
-Hi, i am a self-disciplined, passionate software engineer in Antalya/Turkey. I develop web-based applications with C# programming language. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending email.
+Hi, i am a self-disciplined, passionate software engineer in Antalya/Turkey. I develop web-based applications. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending email.
 
 <!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
 
