@@ -9,7 +9,9 @@
 <a href="https://github.com/zafercaliskan?tab=followers">
   <img src="https://img.shields.io/github/followers/zafercaliskan?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github" alt="GitHub Followers" />
 </a>
-<img src="https://img.shields.io/github/stars/zafercaliskan?style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github&label=Stars" alt="GitHub Stars" />
+<a href="https://github.com/zafercaliskan?tab=stars">
+  <img src="https://img.shields.io/github/stars/zafercaliskan?style=for-the-badge&color=6C63FF&labelColor=1a1b27&logo=github&label=Stars" alt="GitHub Stars" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=zafercaliskan&style=for-the-badge&color=6C63FF&labelColor=1a1b27&label=Profile+Views" alt="Profile Views" />
 
 </div>
@@ -18,12 +20,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a self-disciplined and passionate software engineer. I focus on developing web-based applications and crafting their accompanying tests. I strive to create code that not only functions effectively but is also highly readable, all while adhering to robust design principles.
+I'm a self-disciplined and passionate **Full Stack Developer**. I focus on developing robust web-based applications and crafting their accompanying tests. I strive to create code that not only functions effectively but is also highly readable, clean, and scalable, adhering strictly to **SOLID** design principles and modern software architecture.
 
-- 🔭 Currently working on **Full Stack** projects
-- 🌱 Continuously learning new technologies
-- 💬 Ask me about **Java, C#, JavaScript, React**
-- 📍 Antalya, Turkey
+- 🔭 Currently working on scalable **Full Stack** web architectures.
+- 🌱 Continuously learning and exploring new technologies in cloud infrastructure and modern frontend frameworks.
+- 👯 Looking to collaborate on open-source projects or innovative startup ideas.
+- 💬 Ask me about **Java, C#, JavaScript, React, Spring Boot, or .NET Core**.
+- 📫 How to reach me: **zafercaliskan@outlook.com.tr**
+- ⚡ Fun fact: I love finding elegant solutions to complex coding problems.
 
 ---
 
@@ -31,22 +35,29 @@ I'm a self-disciplined and passionate software engineer. I focus on developing w
 
 <div align="center">
 
-#### Backend
+### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### Frontend
+### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Database & Tools
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -55,22 +66,23 @@ I'm a self-disciplined and passionate software engineer. I focus on developing w
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/zafercaliskan/javaCamp">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=javaCamp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zafercaliskan/CSharpTutorial">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=CSharpTutorial&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/zafercaliskan/hrms">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=hrms&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zafercaliskan/javaScriptTutorial">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=javaScriptTutorial&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
+
+<a href="https://github.com/zafercaliskan/javaCamp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=javaCamp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/zafercaliskan/CSharpTutorial">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=CSharpTutorial&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
+<br/>
+
+<a href="https://github.com/zafercaliskan/hrms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=hrms&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/zafercaliskan/javaScriptTutorial">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=javaScriptTutorial&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+</a>
+
 </div>
 
 ---
@@ -79,10 +91,39 @@ I'm a self-disciplined and passionate software engineer. I focus on developing w
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zafercaliskan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zafercaliskan&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+<a href="https://github.com/zafercaliskan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zafercaliskan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/zafercaliskan">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zafercaliskan&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafercaliskan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages" />
+<br/>
+<br/>
+
+<a href="https://github.com/zafercaliskan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafercaliskan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zafercaliskan&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="zafercaliskan's Trophies" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Activity (Last 365 Days)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zafercaliskan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=c9d1d9&area=true&area_color=6C63FF&days=365" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -107,13 +148,7 @@ I'm a self-disciplined and passionate software engineer. I focus on developing w
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zafercaliskan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=c9d1d9&area=true&area_color=6C63FF&days=365" width="95%" alt="Activity Graph" />
-
-</div>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
