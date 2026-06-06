@@ -63,67 +63,13 @@ I'm a self-disciplined and passionate **Full Stack Developer**. I focus on devel
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/zafercaliskan/javaCamp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=javaCamp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/zafercaliskan/CSharpTutorial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=CSharpTutorial&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/zafercaliskan/hrms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=hrms&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/zafercaliskan/javaScriptTutorial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafercaliskan&repo=javaScriptTutorial&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/zafercaliskan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zafercaliskan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafercaliskan&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </a>
-<a href="https://github.com/zafercaliskan">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zafercaliskan&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/zafercaliskan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafercaliskan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zafercaliskan&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="zafercaliskan's Trophies" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Activity (Last 365 Days)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zafercaliskan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=c9d1d9&area=true&area_color=6C63FF&days=365" width="100%" alt="Activity Graph" />
 
 </div>
 
